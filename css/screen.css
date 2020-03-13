@@ -71,11 +71,12 @@ img {
 */
 
 h1{
-
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
     color: #17121A;
 }
 
 h2 {
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
     color: #17121A;
     font-size: 23px;
     line-height: 32px;
@@ -83,15 +84,21 @@ h2 {
 }
 
 h3 {
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
     color: #17121A;
     font-size: 18px;
     line-height: 24px;
     margin: 0 0 24px;
 }
 
-h4,
-h5,
+h4{
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
+}
+h5{
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
+}
 h6 {
+    font-family: "Inter Web","Helvetica Neue", Helvetica, arial, sans-serif;
     font-size: 16px;
     line-height: 24px;
     margin: 0 0 24px;
