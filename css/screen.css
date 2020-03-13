@@ -226,6 +226,17 @@ a:focus {
     padding: 0 24px;
 }
 
+/* 
+    Components: quote
+*/
+
+.c-qoute{
+    padding: 24px;
+    background: #f2faf8;
+    color: #00b37d;
+    font-size: 23px;
+}
+
 
 /* 
     Utilities: max-width
